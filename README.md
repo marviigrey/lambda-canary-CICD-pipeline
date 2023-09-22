@@ -16,4 +16,4 @@ In this project we will be making use of:
    It enables you to create and manage AWS resources and entire cloud environments using templates
    
 7.  A programming language: Can be python, Go, javascript,java etc.
-8.  
+   
